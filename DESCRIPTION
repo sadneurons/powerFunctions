@@ -1,0 +1,10 @@
+Package: powerFunctions
+Type: Package
+Title: Some helper functions for use in data science projects
+Version: 0.1.0
+Author: Ross A. Dunne
+Maintainer: The package maintainer <powerFunctions@proton.me>
+Description: Some helper functions for use in data sciecne projects.
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
